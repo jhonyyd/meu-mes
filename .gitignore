@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.env
+*.log
+node_modules/
+.pnpm-store/
+backups/
+config.ini
+.vscode/
